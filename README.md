@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Erik
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning for school
